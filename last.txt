@@ -1,0 +1,2 @@
+Header: 
+- add possibility to pass different text in centre of header.
