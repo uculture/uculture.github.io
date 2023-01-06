@@ -1,0 +1,20 @@
+Header: 
+- add possibility to pass different text in centre of header.
+- implement correct translation of categories.
+
+mainPage:
+- add gradient background.
+
+Card:
+- add text limatation in shortDesc.
+
+MapSection: 
+- slightly change light intensity
+
+IntroducingCategory:
+- create main files for this component
+
+Header: - add possibility to pass different text in centre of header.- implement correct translation of categories. | MainPage:- add gradient background.
+Card:- add text limatation in shortDesc.
+
+MapSection: - slightly change light intensity | IntroducingCategory:- create main files for this component
