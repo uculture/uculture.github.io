@@ -1,0 +1,5 @@
+LoadingPage:
+- add animation and responce on loading.
+|
+Redux:
+- add fetch statistic data.
