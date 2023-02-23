@@ -1,0 +1,3 @@
+> confirmEmailPage:
+ - add styles and adaptation;
+> add styles to Changer email/pass;
