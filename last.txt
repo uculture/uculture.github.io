@@ -1,0 +1,2 @@
+> confirmEmailPage:
+ - add styles and adaptation;
